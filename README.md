@@ -4,12 +4,11 @@
 
 * B-TECH in CSE (2019-2023) from Giet University Gunupur, Odisha.
 * Intermediate from Greenland International H.S.S, Biratnagar, Nepal.
-* Schooling from Holyland Secondary. Boarding. School, Biratnagar, Nepal.
-
+* Schooling from Narendra memorial public school , Rajbiraj, Nepal.
 
 - 🎯 I’m currently learning Data Science.
 - 🤖 I’m working on the projects of ML.
-- 🎮 Hobbies: Table Tennis, Esports and cycling.
+- 🎮 Hobbies: Table Tennis, Esports ,travelling and cycling.
 
 
 
@@ -23,12 +22,12 @@
 
 
 
-[twitter]: https://twitter.com/Abhijit89577918
-[instagram]: https://www.instagram.com/_abhijit_gupta_/
-[linkedin]: https://www.linkedin.com/in/abhijit-gupta-764a96209/
+
+[instagram]: https://www.instagram.com/bikin_mainali/
+[linkedin]: https://www.linkedin.com/in/bikin-mainali-1a7314222
 
 <br />
 <br />
-📧 Email : me.gupta511@gmail.com
+📧 Email : vikinmainali@gmail.com
 <!--
 
