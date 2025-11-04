@@ -1,7 +1,7 @@
 ### Hi there, Bikin here....😁
 
 ## I am well organized, flexible and quite adaptive.!!
-
+* Master in Applied Artificial Intelligence(oct 2025 - 0ct 2027) from University of Chester, Chester.
 * B-TECH in CSE (2019-2023) from Giet University Gunupur, Odisha.
 * Intermediate from Greenland International H.S.S, Biratnagar, Nepal.
 * Schooling from Narendra memorial public school , Rajbiraj, Nepal.
